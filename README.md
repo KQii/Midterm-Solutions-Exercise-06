@@ -14,6 +14,8 @@ This program creates and uses inverted indexes with the following functionalitie
 
 ## Implementation Details
 
+The implementation consists of a Python program (inverted_index.py) that creates and searches an inverted index structure for text documents.
+
 ### Data Structures
 
 The program uses two main data structures:
