@@ -234,12 +234,6 @@ def FindFromFile(WordFile: str, N: int, DocTable: Dict[int, str],
    cd Midterm-Solutions-Exercise-06
    ```
 
-3. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Usage Instructions
 
 ### Running the Program
