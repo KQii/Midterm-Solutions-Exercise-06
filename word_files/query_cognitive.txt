@@ -1,0 +1,8 @@
+cognitive 5.0
+computing 3.0
+contextual 2.5
+classification 1.8
+computer 2.0
+conscious 1.5
+convergence 2.2
+critical 1.0 

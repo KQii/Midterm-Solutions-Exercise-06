@@ -1,0 +1,7 @@
+cryptography 3.5
+cybersecurity 4.0
+confidential 2.5
+certificate 2.0
+cipher 1.8
+control 1.2
+credentials 2.3 

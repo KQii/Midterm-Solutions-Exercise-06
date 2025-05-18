@@ -1,0 +1,10 @@
+computer 4.0
+cloud 2.5
+classification 3.0
+cryptography 3.5
+content 1.8
+centralized 2.0
+computational 3.2
+critical 1.5
+creative 1.0
+collaborative 2.2 

@@ -1,0 +1,76 @@
+Term,Document IDs with Frequencies,Document Names
+cache,{1: 1},document2.txt (freq: 1)
+caching,{0: 1},document1.txt (freq: 1)
+capabilities,"{1: 1, 4: 2}","document2.txt (freq: 1), document5.txt (freq: 2)"
+capable,{4: 1},document5.txt (freq: 1)
+capital,{1: 1},document2.txt (freq: 1)
+careful,"{3: 1, 4: 1}","document4.txt (freq: 1), document5.txt (freq: 1)"
+categories,{3: 1},document4.txt (freq: 1)
+categorize,{3: 1},document4.txt (freq: 1)
+categorizing,{0: 1},document1.txt (freq: 1)
+centralized,"{0: 1, 1: 1, 2: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document3.txt (freq: 1)"
+certificate,{2: 1},document3.txt (freq: 1)
+challenges,"{0: 1, 1: 1, 2: 2, 3: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document3.txt (freq: 2), document4.txt (freq: 1)"
+challenging,{0: 1},document1.txt (freq: 1)
+changing,{0: 1},document1.txt (freq: 1)
+classification,"{0: 1, 1: 1, 3: 1, 4: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document4.txt (freq: 1), document5.txt (freq: 1)"
+cloud,"{0: 1, 1: 6, 2: 1, 4: 1}","document1.txt (freq: 1), document2.txt (freq: 6), document3.txt (freq: 1), document5.txt (freq: 1)"
+clustering,"{0: 1, 1: 1, 3: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document4.txt (freq: 1)"
+coding,{0: 1},document1.txt (freq: 1)
+cognition,{4: 2},document5.txt (freq: 2)
+cognitive,{4: 8},document5.txt (freq: 8)
+collaborative,"{0: 1, 3: 1, 4: 1}","document1.txt (freq: 1), document4.txt (freq: 1), document5.txt (freq: 1)"
+collections,{3: 1},document4.txt (freq: 1)
+collective,{0: 1},document1.txt (freq: 1)
+combination,{4: 1},document5.txt (freq: 1)
+commercial,{4: 1},document5.txt (freq: 1)
+communications,{2: 1},document3.txt (freq: 1)
+companies,"{1: 1, 2: 1}","document2.txt (freq: 1), document3.txt (freq: 1)"
+competitive,{1: 1},document2.txt (freq: 1)
+complex,"{0: 1, 2: 1, 4: 1}","document1.txt (freq: 1), document3.txt (freq: 1), document5.txt (freq: 1)"
+components,{0: 1},document1.txt (freq: 1)
+comprehensive,{2: 2},document3.txt (freq: 2)
+computational,"{0: 1, 3: 6, 4: 1}","document1.txt (freq: 1), document4.txt (freq: 6), document5.txt (freq: 1)"
+computer,"{0: 4, 1: 2, 3: 2, 4: 1}","document1.txt (freq: 4), document2.txt (freq: 2), document4.txt (freq: 2), document5.txt (freq: 1)"
+computing,"{0: 2, 1: 5, 2: 2, 4: 3}","document1.txt (freq: 2), document2.txt (freq: 5), document3.txt (freq: 2), document5.txt (freq: 3)"
+concepts,{0: 1},document1.txt (freq: 1)
+concern,{2: 1},document3.txt (freq: 1)
+conditions,"{0: 1, 1: 1}","document1.txt (freq: 1), document2.txt (freq: 1)"
+confidential,{2: 1},document3.txt (freq: 1)
+conscious,{4: 1},document5.txt (freq: 1)
+consciousness,{2: 1},document3.txt (freq: 1)
+consideration,"{2: 1, 4: 1}","document3.txt (freq: 1), document5.txt (freq: 1)"
+considers,{3: 1},document4.txt (freq: 1)
+consistent,{1: 1},document2.txt (freq: 1)
+constantly,{2: 1},document3.txt (freq: 1)
+container,{1: 1},document2.txt (freq: 1)
+containerized,{2: 1},document3.txt (freq: 1)
+contemporary,{2: 1},document3.txt (freq: 1)
+content,"{0: 1, 1: 1, 3: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document4.txt (freq: 1)"
+context,{0: 1},document1.txt (freq: 1)
+contextual,"{3: 2, 4: 1}","document4.txt (freq: 2), document5.txt (freq: 1)"
+continues,"{0: 2, 3: 1}","document1.txt (freq: 2), document4.txt (freq: 1)"
+continuous,"{2: 1, 4: 1}","document3.txt (freq: 1), document5.txt (freq: 1)"
+control,{1: 1},document2.txt (freq: 1)
+controls,{2: 1},document3.txt (freq: 1)
+conventional,{2: 1},document3.txt (freq: 1)
+convergence,{4: 1},document5.txt (freq: 1)
+convincing,{4: 1},document5.txt (freq: 1)
+coreference,{3: 1},document4.txt (freq: 1)
+cornerstone,{1: 1},document2.txt (freq: 1)
+corpus,"{0: 1, 3: 1}","document1.txt (freq: 1), document4.txt (freq: 1)"
+correlation,{2: 1},document3.txt (freq: 1)
+cost,{1: 1},document2.txt (freq: 1)
+counter,{2: 1},document3.txt (freq: 1)
+crawler,{0: 1},document1.txt (freq: 1)
+creates,{4: 1},document5.txt (freq: 1)
+creating,{2: 1},document3.txt (freq: 1)
+creative,"{0: 1, 1: 1}","document1.txt (freq: 1), document2.txt (freq: 1)"
+critical,"{0: 1, 1: 1, 2: 1, 4: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document3.txt (freq: 1), document5.txt (freq: 1)"
+cross,{3: 1},document4.txt (freq: 1)
+crucial,"{1: 1, 3: 1}","document2.txt (freq: 1), document4.txt (freq: 1)"
+cryptography,"{0: 1, 1: 1, 2: 1}","document1.txt (freq: 1), document2.txt (freq: 1), document3.txt (freq: 1)"
+culture,{2: 1},document3.txt (freq: 1)
+current,{4: 1},document5.txt (freq: 1)
+custom,"{1: 1, 2: 1}","document2.txt (freq: 1), document3.txt (freq: 1)"
+cybersecurity,{2: 3},document3.txt (freq: 3)

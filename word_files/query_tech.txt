@@ -1,0 +1,7 @@
+computer 3.0
+cloud 3.5
+computing 2.8
+code 1.5
+compiler 2.0
+cache 1.2
+clusters 1.8 

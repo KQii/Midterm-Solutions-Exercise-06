@@ -1,0 +1,7 @@
+computer 2.0
+cloud 1.5
+cybersecurity 3.0
+classification 1.0
+cryptography 2.5
+content 0.8
+computational 1.2 

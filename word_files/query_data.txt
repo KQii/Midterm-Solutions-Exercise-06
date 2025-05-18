@@ -1,0 +1,7 @@
+classification 3.0
+clustering 3.2
+categorization 2.5
+computation 2.0
+corpus 1.8
+correlation 2.3
+crawling 1.5 
