@@ -2,6 +2,13 @@
 
 An implementation of an inverted index system for text document search and retrieval.
 
+## Team Members
+
+- Nguyen Thi Phuong Thao - N21DCCN078
+- Nguyen Thi Minh Thu - N21DCCN082
+- Du Trong Nhan - N21DCCN060
+- Trinh Khanh Quan - N20DCCN057
+
 ## Problem Statement
 
 This program creates and uses inverted indexes with the following functionalities:
@@ -357,7 +364,6 @@ Document: article1.txt, Score: 1.5
 
 ## Notes and Limitations
 
-- The current implementation only indexes words that start with the letter ’c’ (case
-  insensitive)
+- The current implementation only indexes words that start with the letter 'c' (case insensitive)
 - The program uses a simple tokenization approach (words separated by spaces, punctuation removed)
 - All words are converted to lowercase for indexing and searching
